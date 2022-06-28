@@ -176,4 +176,6 @@ class Bullet {
 /* código disponibilizado em https://github.com/profluizangelo/p5.js */
 /* Créditos:
    disponibilizado originalmente em https://www.computersciencemaster.com.br/ 
-   licença sob https://creativecommons.org/licenses/by-sa/4.0/ */
+   licença sob https://creativecommons.org/licenses/by-sa/4.0/ 
+   licença sob https://creativecommons.org/licenses/by-sa/4.0/ 
+   Short URL for MIT License (Expat): https://www.tldrlegal.com/l/mit */
